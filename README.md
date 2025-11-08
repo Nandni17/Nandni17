@@ -1,16 +1,15 @@
-## Hi there 👋
+                                                           Hello Everyone 👋, I am Nandni Kumari.
+                              An aspiring undergraduate of Software Engineering and a Passinate Frontend Developer from Pakistan.
 
-<!--
-**Nandni17/Nandni17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on making greatful and useful projects that make my skills sharp.
+- 🌱 I’m currently learning React.js called the Library of javascript, also some frameworks are Bootstrap, and Tailwind CSS..
+- 💬 Ask me about HTML, CSS, JS, and also about the above libraries and frameworks..
+- 📫 How to reach me: **nandnikumarimalhi@gmail.com**
 
-Here are some ideas to get you started:
+Connects with me :
+Linkedin : www.linkedin.com/in/nandni-kumari-5b6318333
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools :
+C++ , HTML, CSS, JS, SQL Server, Gitbash, Bootstap.
+  
+  
