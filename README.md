@@ -1,5 +1,5 @@
-                                                           Hello Everyone 👋, I am Nandni Kumari.
-                              An aspiring undergraduate of Software Engineering and a Passinate Frontend Developer from Pakistan.
+                                                     Hello Everyone 👋, I am Nandni Kumari.
+                        An aspiring undergraduate of Software Engineering and a Passinate Frontend Developer from Pakistan.
 
 - 🔭 I’m currently working on making greatful and useful projects that make my skills sharp.
 - 🌱 I’m currently learning React.js called the Library of javascript, also some frameworks are Bootstrap, and Tailwind CSS..
