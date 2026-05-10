@@ -95,19 +95,7 @@ Motto       : "Building beautiful, functional & user-friendly web experiences."
 [![trophy](https://github-profile-trophy.vercel.app/?username=nandnikumari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Nandni's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nandnikumari&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
