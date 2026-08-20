@@ -106,7 +106,7 @@ Motto       : "Build. Break. Debug. Learn. Repeat."
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -260,36 +260,6 @@ Software Engineering
 * 🧠 Improve DSA and problem-solving skills
 * 🌐 Learn better deployment and cloud practices
 * 💼 Build a strong portfolio for internships and future software engineering opportunities
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandnikumari&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandnikumari&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=c9d1d9"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nandnikumari&theme=tokyonight&hide_border=true&background=0D1117&ring=667eea&fire=764ba2&currStreakLabel=667eea" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nandnikumari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=6" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
