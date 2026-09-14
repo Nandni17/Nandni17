@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nandni%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nandni%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20MERN-Stack%20Web%20Developer%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer+%F0%9F%92%BB;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+RESTful+APIs+%F0%9F%9A%80;ASP.NET+Core+MVC+%7C+SQL+Server;Stripe+Payments+%7C+Webhooks+%F0%9F%92%B3;Building+Real-World+Web+Applications+%E2%9C%A8" alt="Typing SVG" />
