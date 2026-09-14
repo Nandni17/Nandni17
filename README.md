@@ -16,7 +16,7 @@
 
 # 👩‍💻 About Me
 
-Hi! I'm **Nandni Kumari**, a Software Engineering student and aspiring **Full-Stack Web Developer** from Pakistan 🇵🇰.
+Hi! I'm **Nandni Kumari**, a Software Engineering student and aspiring **MERN Stack Web Developer** from Pakistan 🇵🇰.
 
 I enjoy building web applications, learning backend development, designing responsive interfaces, and turning ideas into functional products. Recently, I've been focusing heavily on the **MERN stack** and building real-world applications with React, Node.js, Express.js, and MongoDB.
 
