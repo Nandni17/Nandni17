@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nandni%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20MERN-Stack%20Web%20Developer%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nandni%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20MERN%20%26%20ASP.NET%20Core%20%7C%20DevOps%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=MERN-Stack+Web+Developer+%F0%9F%92%BB;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+RESTful+APIs+%F0%9F%9A%80;ASP.NET+Core+MVC+%7C+SQL+Server;Building+Real-World+Web+Applications+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;ASP.NET+Core+MVC+%7C+SQL+Server;Docker+%7C+GitHub+Actions+%7C+CI%2FCD;Dev+Weekends+Silver+Fellow+%F0%9F%8F%85" alt="Typing SVG" />
 </a>
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nandnikumari\&label=Profile%20Views\&color=667eea\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Nandni17&label=Profile%20Views&color=667eea&style=flat-square)
 
 </div>
 
@@ -16,50 +16,101 @@
 
 # 👩‍💻 About Me
 
-Hi! I'm **Nandni Kumari**, a Software Engineering student and aspiring **MERN Stack Web Developer** from Pakistan 🇵🇰.
+Hi! I'm **Nandni Kumari**, a 3rd-year Software Engineering student at **MAJU** (3.94 CGPA) from Karachi, Pakistan 🇵🇰.
 
-I enjoy building web applications, learning backend development, designing responsive interfaces, and turning ideas into functional products. Recently, I've been focusing heavily on the **MERN stack** and building real-world applications with React, Node.js, Express.js, and MongoDB.
+I build and ship full stack applications with the **MERN stack** and **ASP.NET Core**. I recently completed the **Dev Weekends Full Stack AI Engineering Fellowship** as a **Silver Fellow**, where I built and deployed real projects, learned DevOps, and started contributing to open source.
 
-I'm also continuing my journey with **ASP.NET Core MVC and SQL Server**, while strengthening my understanding of REST APIs, authentication, databases, API testing, deployment, Git/GitHub, and software engineering practices.
+I'm currently focusing on **backend development, testing, and cloud deployment**.
 
 ```yaml
-Name        : Nandni Kumari
-Role        : Software Engineering Student
-Goal        : Full-Stack Software Engineer
-Focus       : Web Development & Backend APIs
-Frontend    : React.js · JavaScript · Tailwind CSS · Bootstrap
-Backend     : Node.js · Express.js · ASP.NET Core MVC
-Databases   : MongoDB · SQL Server
-APIs        : RESTful APIs
-Payments    : Stripe API · Stripe Webhooks
-Testing     : Postman · Bruno
-Tools       : Git · GitHub · VS Code
-Problem Solving : Data Structures & Algorithms
-Motto       : "Build. Break. Debug. Learn. Repeat."
+Name         : Nandni Kumari
+University   : Mohammad Ali Jinnah University (BSSE, 3.94 CGPA)
+Fellowship   : Dev Weekends — Full Stack AI Engineering (Silver Fellow)
+Frontend     : React.js · JavaScript · Tailwind CSS · Bootstrap
+Backend      : Node.js · Express.js · ASP.NET Core MVC
+Databases    : MongoDB · SQL Server
+DevOps       : Docker · GitHub Actions · CI/CD · Linux
+Integrations : Stripe · Webhooks · Cloudinary · Brevo
+Problem Solving : DSA · 90+ LeetCode problems
+Looking for  : Internships in Full Stack / Backend Development
+Motto        : "Build. Break. Debug. Learn. Repeat."
 ```
 
 ---
 
 # 🚀 What I'm Currently Doing
 
-* 🛒 Building **VendorVerse**, a full-stack e-commerce web application.
-* ⚛️ Developing responsive interfaces using **React.js**.
-* 🟢 Building backend services with **Node.js and Express.js**.
-* 🍃 Working with **MongoDB and Mongoose** for database operations.
-* 🔌 Designing and testing **RESTful APIs**.
-* 💳 Integrating **Stripe payments and webhooks**.
-* 🧪 Testing APIs with **Postman and Bruno**.
-* 🌐 Learning and working with **frontend-backend integration and deployment**.
-* 🔐 Understanding authentication, authorization, environment variables, and secure backend configuration.
-* 🔷 Continuing to learn **ASP.NET Core MVC and SQL Server**.
-* 🧠 Practicing **Data Structures & Algorithms** and solving coding problems.
-* 🌱 Continuously improving my software engineering and problem-solving skills.
+* ☁️ Working on **cloud deployment** for VendorVerse
+* 🔧 Strengthening **backend development**, testing and performance optimization
+* 🐳 Applying **DevOps practices** (Docker, GitHub Actions, CI/CD) to my projects
+* 🌍 Building open-source experience and contributing to real-world repositories, preparing for **GSoC**
+* 🧠 Practicing **Data Structures & Algorithms** on LeetCode
+
+---
+
+# 🌟 Featured Projects
+
+## 🛍️ VendorVerse — Multi-Vendor E-Commerce Platform
+
+A full stack MERN marketplace with separate experiences for **buyers, sellers and admins**, built in 3–4 weeks and then Dockerized with CI/CD.
+
+**Tech:** `React.js` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Stripe` · `Cloudinary` · `Brevo` · `Docker` · `GitHub Actions` · `Vercel`
+
+**Key features**
+
+* 🔐 JWT authentication with role-based access (Buyer, Seller, Admin)
+* 📧 Email verification using Brevo
+* 🛒 Full e-commerce flow: products, cart, wishlist, checkout, orders and tracking
+* 💳 Stripe Checkout, webhooks and Cash on Delivery
+* 🏪 Seller dashboard for product and order management
+* 💬 Real-time buyer ↔ seller chat
+* ⭐ Verified-purchase reviews and ratings
+* 👑 Admin dashboard for users, products, orders and contacts
+* 👤 Profile management with Multer + Cloudinary
+* 🐳 Dockerized frontend and backend, images on Docker Hub, GitHub Actions workflows
+
+🔗 [GitHub Repository](https://lnkd.in/dWx28ubN) · 🌐 [Live Demo](https://lnkd.in/d9GRD5d4)
+
+---
+
+## 🔷 Inventory Management System — ASP.NET Core MVC
+
+Built for my Software Architecture Lab final project.
+
+**Tech:** `ASP.NET Core MVC` · `Entity Framework Core` · `SQL Server` · `Bootstrap`
+
+* MVC architecture with full CRUD for inventory
+* Entity Framework Core with `DbContext` and SQL Server
+* Dependency Injection and ASP.NET Core Identity
+* Responsive Bootstrap UI with validation and formatting
+
+🔗 [GitHub Repository](https://github.com/Nandni17/Inventory_MS_using_IdentityFramework)
+
+---
+
+## 📦 Product Manager — MERN CRUD App
+
+A deployed full stack app to add, edit, delete and view products.
+
+**Tech:** `React` (Vercel) · `Node.js + Express` (Railway) · `MongoDB Atlas` · `Git`
+
+🔗 [GitHub Repository](https://lnkd.in/dBWBPwRD) · 🌐 [Frontend](https://lnkd.in/dd9iSUak) · ⚙️ [Backend API](https://lnkd.in/dk9C24Ra)
+
+---
+
+## ✈️ Travel Booking App — React
+
+My first React project, built during the fellowship: Home, Destinations, Services, Booking and Authentication pages with React Router, responsive on mobile.
+
+**Tech:** `React` · `React Router` · `Vercel`
+
+🔗 [GitHub Repository](https://lnkd.in/dQYuupnR) · 🌐 [Live App](https://lnkd.in/dzp3H2_c)
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🎨 Frontend Development
+## 🎨 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -70,13 +121,15 @@ Motto       : "Build. Break. Debug. Learn. Repeat."
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-## ⚙️ Backend Development
+## ⚙️ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 ## 🗄️ Databases
@@ -87,26 +140,31 @@ Motto       : "Build. Break. Debug. Learn. Repeat."
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
-## 💳 Payments & Integrations
+## 🐳 DevOps & Deployment
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+## 💳 Integrations & API Testing
 
 <p>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe_Webhooks-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-</p>
-
-## 🧪 API Testing & Development
-
-<p>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bruno-F4A108?style=for-the-badge&logo=bruno&logoColor=black"/>
 </p>
 
-## 💻 Languages & Development Tools
+## 💻 Languages & Tools
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -114,152 +172,35 @@ Motto       : "Build. Break. Debug. Learn. Repeat."
 
 ---
 
-# 🌟 Featured Project
+# 🏅 Dev Weekends Fellowship
 
-## 🛍️ VendorVerse — Full-Stack E-Commerce Application
+I completed the **Full Stack AI Engineering Fellowship** at Dev Weekends and was awarded the **Silver Fellow** certification. Highlights:
 
-**VendorVerse** is a full-stack e-commerce web application that I'm building to strengthen my real-world full-stack development skills.
-
-The project combines a modern React frontend with a Node.js/Express backend, MongoDB database integration, RESTful APIs, and Stripe payment processing.
-
-### 🔧 Technologies
-
-`React.js` · `Node.js` · `Express.js` · `MongoDB` · `Mongoose` · `REST APIs` · `Stripe` · `Git` · `GitHub`
-
-### ✨ Key Features
-
-* 🛒 Product management and CRUD operations
-* 🔌 RESTful backend APIs
-* 🍃 MongoDB database integration
-* ⚛️ React-based frontend
-* 🌐 Frontend and backend integration
-* 💳 Stripe payment integration
-* 🔔 Stripe webhook handling
-* 🧪 API testing with Postman and Bruno
-* 🔐 Environment variable configuration
-* 🚀 Deployment and production configuration
-* 🛠️ Debugging real-world backend and deployment issues
-
-### 📚 What This Project Taught Me
-
-Through VendorVerse, I've gained practical experience with:
-
-```text
-Frontend
-   ↓
-React.js
-   ↓
-REST API
-   ↓
-Node.js + Express.js
-   ↓
-MongoDB + Mongoose
-   ↓
-Stripe Payment Processing
-   ↓
-Webhooks
-   ↓
-Deployment
-```
+* Built and deployed MERN apps on Vercel, Railway and MongoDB Atlas
+* Developed VendorVerse and applied DevOps practices to it (Docker, Docker Hub, GitHub Actions)
+* Made my first open-source contribution
+* Practiced DSA consistently and solved 90+ LeetCode problems
+* Wrote a technical article: [My DevOps Journey: From "It Works on My Machine" to Docker, CI/CD and Cloud](https://www.linkedin.com/in/nandni-kumari-5b6318333/)
 
 ---
 
-# 🔷 ASP.NET Core Journey
+# 🧠 Problem Solving
 
-Alongside MERN development, I've also been building my foundation in the **Microsoft .NET ecosystem**.
+I practice **Data Structures & Algorithms** on LeetCode (90+ problems solved).
 
-### Currently familiar with:
+`Arrays` · `Strings` · `Math` · `Sorting` · `Stacks` · `Queues` · `Recursion`
 
-* ASP.NET Core MVC
-* Controllers & Actions
-* Razor Views
-* Entity Framework Core
-* Dependency Injection
-* CRUD Applications
-* SQL Server
-* Connection Strings
-* ASP.NET Core Identity
-* Authentication & Authorization
-* RESTful APIs
-* MVC architecture
-
-I've worked on projects such as **Inventory Management Systems** while learning ASP.NET Core MVC and Entity Framework Core.
-
----
-
-# 🧠 Data Structures & Algorithms
-
-I'm actively improving my problem-solving skills through DSA practice and coding challenges.
-
-### Topics I'm working on:
-
-`Arrays` · `Strings` · `Hashing` · `Linked Lists` · `Stacks` · `Queues` · `Searching` · `Sorting` · `Recursion`
-
-### LeetCode Practice
-
-I've been working through beginner-friendly LeetCode problems and gradually building stronger problem-solving habits.
-
-**Goal:** Understand the logic behind solutions instead of simply memorizing code.
-
----
-
-# 📚 My Learning Journey
-
-```text
-Software Engineering
-        │
-        ├── Web Development
-        │      │
-        │      ├── HTML
-        │      ├── CSS
-        │      ├── JavaScript
-        │      └── React.js
-        │
-        ├── Backend Development
-        │      │
-        │      ├── Node.js
-        │      ├── Express.js
-        │      ├── REST APIs
-        │      └── ASP.NET Core
-        │
-        ├── Databases
-        │      │
-        │      ├── MongoDB
-        │      └── SQL Server
-        │
-        ├── Integrations
-        │      │
-        │      └── Stripe Payments & Webhooks
-        │
-        ├── Development Tools
-        │      │
-        │      ├── Git
-        │      ├── GitHub
-        │      ├── Postman
-        │      ├── Bruno
-        │      └── VS Code
-        │
-        └── Computer Science
-               │
-               ├── Data Structures
-               ├── Algorithms
-               └── Software Engineering
-```
+**Goal:** understand the logic behind each solution instead of memorizing code.
 
 ---
 
 # 🎯 Current Goals
 
-* 🚀 Become a strong **Full-Stack Developer**
-* ⚛️ Build more production-style React applications
-* 🟢 Become more confident with Node.js and Express.js
-* 🍃 Improve MongoDB and backend architecture skills
-* 🔐 Learn robust authentication and authorization
-* 💳 Build more real-world third-party API integrations
-* 🔷 Strengthen ASP.NET Core and SQL Server knowledge
-* 🧠 Improve DSA and problem-solving skills
-* 🌐 Learn better deployment and cloud practices
-* 💼 Build a strong portfolio for internships and future software engineering opportunities
+* 🔧 Deepen backend skills: system design, testing and performance optimization
+* ☁️ Finish cloud deployment and CI/CD automation for VendorVerse
+* 🌍 Keep contributing to open source and prepare for GSoC
+* 🤖 Build AI-powered applications
+* 💼 Land an **internship in full stack or backend development**
 
 ---
 
@@ -267,7 +208,7 @@ Software Engineering
 
 <div align="center">
 
-<a href="https://github.com/nandnikumari">
+<a href="https://github.com/Nandni17">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -288,8 +229,6 @@ Software Engineering
 ### 💜 Thanks for visiting my profile!
 
 **I'm learning, building, debugging, and improving one project at a time. 🚀**
-
-If you find something interesting in my repositories, feel free to ⭐ the project!
 
 <br>
 
