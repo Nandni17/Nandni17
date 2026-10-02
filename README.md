@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nandni%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20MERN%20%26%20ASP.NET%20Core%20%7C%20DevOps%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Nandni%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20MERN%20and%20ASP.NET%20Core%20%7C%20DevOps%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;ASP.NET+Core+MVC+%7C+SQL+Server;Docker+%7C+GitHub+Actions+%7C+CI%2FCD;Dev+Weekends+Silver+Fellow+%F0%9F%8F%85" alt="Typing SVG" />
@@ -12,7 +12,7 @@
 
 </div>
 
-----
+---
 
 # 👩‍💻 About Me
 
@@ -178,7 +178,6 @@ I completed the **Full Stack AI Engineering Fellowship** at Dev Weekends and was
 
 * Built and deployed MERN apps on Vercel, Railway and MongoDB Atlas
 * Developed VendorVerse and applied DevOps practices to it (Docker, Docker Hub, GitHub Actions)
-* Made my first open-source contribution
 * Practiced DSA consistently and solved 90+ LeetCode problems
 * Wrote a technical article: [My DevOps Journey: From "It Works on My Machine" to Docker, CI/CD and Cloud](https://www.linkedin.com/in/nandni-kumari-5b6318333/)
 
@@ -188,7 +187,7 @@ I completed the **Full Stack AI Engineering Fellowship** at Dev Weekends and was
 
 I practice **Data Structures & Algorithms** on LeetCode (90+ problems solved).
 
-`Arrays` · `Strings` · `Math` · `Sorting` · `Stacks` · `Queues` · `Recursion`
+`Arrays` · `Strings` · `Sorting` · `Stacks` · `Queues` · `Recursion`
 
 **Goal:** understand the logic behind each solution instead of memorizing code.
 
